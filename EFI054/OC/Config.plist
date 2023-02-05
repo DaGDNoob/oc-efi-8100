@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#Intel i3 8100 + iGPU</key>
-	<string>Easier than KVM Single GPU</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
@@ -958,7 +956,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02016404J9LNV91M</string>
+			<string>0</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -972,9 +970,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CL0HAJV3Q</string>
+			<string>0</string>
 			<key>SystemUUID</key>
-			<string>529C7FD1-0121-43F4-ADD5-D96038813191</string>
+			<string>0</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
